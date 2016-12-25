@@ -1,6 +1,6 @@
 git:2.4.4
-scm-api:1.0
-git-client:2.1.0
-greenballs:1.15
+scm-api:1.2
+git-client:1.21.0
+greenballs:1.10
 swarm:2.2
 kubernetes:0.9
